@@ -11,3 +11,5 @@ todas las bases tecnicas sobre java Script.
 | Clase #6  | Funciones  |
 | Clase #7  | Arrays |
 | Clase #8  | Ciclos  |
+| Clase #9  | Objetos  |
+| Clase #10  | Metodos en los Arrays  |
