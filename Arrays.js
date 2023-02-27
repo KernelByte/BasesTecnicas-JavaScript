@@ -31,3 +31,18 @@ var articulos = [
   var nombreArticulos = articulos.map(function(art){
     return art.nombre;
   });
+
+  // Metodo find -- Para encontrar algo dentro del array
+  var busquedad = articulos.find(function(articulo){
+    return articulo.nombre === "Laptop";
+  })
+
+  // Metodo Foreach -- Para devolver todos los qrticulos
+  articulos.forEach(function(articulo){
+    console.log(articulo.nombre);
+  })
+
+  // Metodo Some -- regresa una validacion de verdadero o falso a articulos que cumplan
+  var baratos = articulos.some(function(articulo){
+    return articulo.costo <= 700;
+  })
