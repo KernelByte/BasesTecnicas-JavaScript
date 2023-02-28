@@ -1,0 +1,15 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "Curso de ecmaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Yoniher Melendez <yonihermelendez\u001b\u001bq\u001bq\u001b2\u001bq\u001bq\u001bq\u001b2>",
+  "license": "MIT"
+}
